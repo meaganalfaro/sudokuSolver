@@ -1,4 +1,4 @@
-**!!Sudoku Solver!!!**
+**# Sudoku Solver**
 
 ***Overview***
 - This is a command-line Sudoku solver written in C.
